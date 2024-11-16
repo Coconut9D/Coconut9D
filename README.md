@@ -1,7 +1,6 @@
-<h1 align="center">Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="URL_CUA_ANH" alt="Character Image" width="300">
+  <img src="[URL_CUA_ANH](https://avatars.githubusercontent.com/u/179816119?v=4)" alt="Character Image" width="300">
 </p>
 
 ---
