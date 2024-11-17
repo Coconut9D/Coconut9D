@@ -14,6 +14,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Coconut9D&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coconut9D&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 ## 🏆 GitHub Trophies
 
 ![](https://github-trophies.vercel.app/?username=Coconut9D&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
