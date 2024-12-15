@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/923222770098270229?theme=dark&animated=false&showDisplayName=false&bg=111214&borderRadius=&ignoreAppId=&idleMessage=Live%20-%20Work%20-%20Experience%20)](https://discord.com/users/923222770098270229)
  
 # 💻 Tech Stack  
- 
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
